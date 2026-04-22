@@ -1,7 +1,7 @@
 # N64 Emulator Web
 <img src="assets/images/Nintendo 64 logo.png" alt="Alt text" title="N64" width="150" height="150">
 
-    An Emulator Website, this might change into a website emulator probably, never?
+    DO NOT SUE ME NINTENDO I DID NOT MAKE THIS. 
   
 ## Game List
 
